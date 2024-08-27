@@ -1,9 +1,9 @@
+# homebrew-rate
+
 :building_construction: :warning:
 This is a stub for an idea that may never happen.
 Don't take it seriously unless it actually starts working.
 :warning:
-
-# homebrew-rate
 
 Be a part of something. Rate Homebrew packages.
 
