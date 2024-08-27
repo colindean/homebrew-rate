@@ -35,5 +35,3 @@ Memes, like many silly ideas.
 
 ![Windows dialog: Rate your experience creating a folder](https://github.com/user-attachments/assets/84c8f1a9-5156-4291-9977-02c38ebd6781)
 ![CLI: mkdir --rate](https://github.com/user-attachments/assets/fb433b56-3738-4b73-9696-8d9c3c71a576)
-
-
